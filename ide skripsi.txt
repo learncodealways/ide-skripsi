@@ -1,0 +1,5 @@
+1. Aplikasi Pemantauan Saham dan Analisa Teknis Berbasis Web
+ Penjelasan : "Implementasikan aplikasi yang memungkinkan pengguna memantau harga saham secara real-time, mengakses analisa teknis dan membuat simulasi investasi".
+
+2. Aplikasi Web Live Tracking untuk Event Lari 
+Penjelasan : "Implementasikan fitur pelacakan langsung (web tracking) untuk event lari, memungkinkan peserta dan pendukung melihat peserta selama perlombaan".
